@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GjunSpinner</string>
+    <string-array
+        name="string_array_name">
+        <item>Java基礎課程</item>
+        <item>Java進階課程</item>
+        <item>Android基礎課程</item>
+        <item>Android進階課程</item>
+        <item>Apple</item>
+        <item>Word</item>
+        <item>Excel</item>
+        <item>PPT</item>
+        <item>Flash</item>
+        <item>Photo</item>
+    </string-array>
+</resources>
